@@ -36,3 +36,6 @@ google-services.json
 # Personal dotfile local exclusions
 .zshrc.local
 .bashrc.local
+
+[push]
+    autoSetupRemote = true
