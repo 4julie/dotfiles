@@ -1,8 +1,10 @@
 # dotfiles
 My very own dotfiles; I kicked them off using Mathias Bynens repo, so I copied his thanks and added him to mine. 
 
-# Thanks to…
-Mathias Bynens
+
+#Inspired By
+Mathias Bynens[GIthub:- https://github.com/mathiasbynens/dotfiles]
+# and secondary thanks…
 @ptb and his macOS Setup repository
 Ben Alman and his dotfiles repository
 Cătălin Mariș and his dotfiles repository
